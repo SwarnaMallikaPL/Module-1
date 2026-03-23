@@ -14,11 +14,15 @@ To write a Python program for adding two complex numbers, and get the user input
 
 ## PROGRAM
 ```python
+# REGNO:-212222060266
+# Name:-SWARNA MALLIKA PL
+
 a = eval()
 b = eval()
 print(f"A is {a}")
 print(f"B is {b}")
 print(f"Sum is {a+b}")
+
 
 ```
 
@@ -27,4 +31,3 @@ print(f"Sum is {a+b}")
 
 ## RESULT
 Thus the python program for  adding two complex numbers has been implemented and executed successfully.
-
